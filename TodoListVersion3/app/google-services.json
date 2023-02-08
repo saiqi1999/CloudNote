@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157304422708",
+    "project_id": "todolist-cs5520-saiqi",
+    "storage_bucket": "todolist-cs5520-saiqi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157304422708:android:4df6851020aced971d6561",
+        "android_client_info": {
+          "package_name": "edu.neu.khoury.madsea.saiqihe.todolistversion2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157304422708-um0ndraqhi8evokr4lk0ge3vhbdan8hj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVrRYNMG2nLlmqVHFUq4Ho7SyhDeDDTAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157304422708-um0ndraqhi8evokr4lk0ge3vhbdan8hj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

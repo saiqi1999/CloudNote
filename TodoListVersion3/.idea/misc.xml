@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../../../layout/custom_preview.xml" value="0.1140625" />
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.1296875" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.17314814814814813" />
+        <entry key="app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.17314814814814813" />
+        <entry key="app/src/main/res/drawable/ic_baseline_add_circle_outline_24.xml" value="0.17314814814814813" />
+        <entry key="app/src/main/res/drawable/ic_baseline_assignment_24.xml" value="0.11354166666666667" />
+        <entry key="app/src/main/res/drawable/ic_baseline_clear_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_google_circle_outline_24.xml" value="0.17314814814814813" />
+        <entry key="app/src/main/res/drawable/ic_baseline_new_account_circle_24.xml" value="0.17314814814814813" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.17314814814814813" />
+        <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.11354166666666667" />
+        <entry key="app/src/main/res/layout/activity_insert.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_insert_timer.xml" value="0.10435663627152988" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_email_login.xml" value="0.20052083333333334" />
+        <entry key="app/src/main/res/layout/recycle_view.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.103125" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.103125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

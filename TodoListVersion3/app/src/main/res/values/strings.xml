@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Personal Cloud Note</string>
+    <string name="add">add</string>
+    <string name="del">del</string>
+    <string name="timer_second">TIMER::SECOND</string>
+    <string name="timer_seconds">TIMER: SECONDS</string>
+    <string name="pick_time">pick time</string>
+    <string name="delay_second">DELAY::SECOND</string>
+    <string name="title">Title</string>
+    <string name="detail">detail</string>
+    <string name="signup">sign up</string>
+    <string name="google_login">google OAuth login</string>
+    <string name="sign_in">sign in</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="my_web_client_id">157304422708-um0ndraqhi8evokr4lk0ge3vhbdan8hj.apps.googleusercontent.com</string>
+</resources>
